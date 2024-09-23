@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <div align="center">I'm Kishore, a full-time full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm <strong>Kishore</strong>, a full-time full-stack developer 👨‍💻 </div>  
   
 
 <br/>  
